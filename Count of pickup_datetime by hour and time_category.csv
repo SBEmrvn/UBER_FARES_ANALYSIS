@@ -1,0 +1,25 @@
+﻿hour,time_category,Count of pickup_datetime
+19,Peak,12562
+18,Peak,12023
+20,Off-Peak,11715
+21,Off-Peak,11401
+22,Off-Peak,10992
+13,Off-Peak,9976
+12,Off-Peak,9878
+23,Off-Peak,9782
+17,Peak,9719
+14,Off-Peak,9717
+15,Off-Peak,9578
+11,Off-Peak,9387
+9,Peak,9308
+8,Peak,9040
+10,Off-Peak,8912
+16,Peak,8289
+0,Off-Peak,7817
+7,Peak,7201
+1,Off-Peak,5887
+2,Off-Peak,4405
+6,Off-Peak,4119
+3,Off-Peak,3243
+4,Off-Peak,2356
+5,Off-Peak,1961
